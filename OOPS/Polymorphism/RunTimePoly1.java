@@ -1,3 +1,7 @@
+//Method overriding
+//Runtime polymorphism
+//Dynamic method dispatch
+
 class Overriding1
 {
 	int n = 10;
